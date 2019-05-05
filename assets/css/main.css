@@ -2881,6 +2881,7 @@ input, select, textarea {
 					display: inline-block;
 					margin: 0 0 0 1em;
 					padding: 0 0 0 1em;
+					color: black;
 				}
 
 					#footer footer .copyright li:first-child {
@@ -3122,9 +3123,4 @@ input, select, textarea {
 					margin: 0;
 					padding: 0;
 				}
-
-				ul.copyright{
-					color:black;
-				}
-
 	}
